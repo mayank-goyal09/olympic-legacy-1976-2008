@@ -1,4 +1,4 @@
-# 🏅 The Psychology of Olympic Glory: Decoding 32 Years of Excellence (1976-2008)
+# 🏅 The Science of Olympic Glory: Decoding 32 Years of Excellence (1976-2008)
 
 > **"Champions aren't born. They're forged through resilience, strategy, and the relentless pursuit of excellence."**  
 > — *An exploration of what separates the best from the rest*
@@ -7,12 +7,12 @@
 
 ## 🧠 **Why This Dataset Matters**
 
-The Summer Olympics isn't just a sporting event—it's a **psychological experiment** on a global stage.  
+The Summer Olympics isn't just a sporting event—it's a **human excellence experiment** on a global stage.  
 
 Every medal tells a story:  
 ✔ **Persistence** — Athletes who trained for decades to reach one defining moment  
 ✔ **National Pride** — Countries investing resources to dominate certain sports  
-✔ **Competitive Psychology** — The mental edge that separates gold from silver  
+✔ **Competitive Mindset** — The mental edge that separates gold from silver  
 
 This dataset contains **15,500+ records** spanning **32 years** (1976-2008), capturing:  
 🥇 **Who won?** (Athletes, countries, sports)  
@@ -21,7 +21,7 @@ This dataset contains **15,500+ records** spanning **32 years** (1976-2008), cap
 
 If you've ever wondered:  
 🤔 *Why do certain countries dominate specific sports?*  
-🤔 *What psychological traits correlate with Olympic success?*  
+🤔 *What traits correlate with Olympic success?*  
 🤔 *How has the Olympics evolved as a reflection of society?*  
 
 Then this dataset is your answer.
@@ -39,7 +39,7 @@ Then this dataset is your answer.
 A collection of **powerful analytical queries** to uncover:  
 📌 **Dominance Analysis** — Which countries ruled each decade?  
 📌 **Gender Trends** — How did female participation evolve?  
-📌 **Age Psychology** — Do younger or older athletes perform better?  
+📌 **Age Analysis** — Do younger or older athletes perform better?  
 📌 **Sport-Specific Insights** — Swimming vs. Athletics vs. Gymnastics  
 📌 **Underdog Stories** — Small nations that punched above their weight  
 
@@ -51,7 +51,7 @@ A collection of **powerful analytical queries** to uncover:
 - Are gold medalists born or made?  
 - Do certain countries have a "winning culture"?  
 
-### **🌍 2. Geopolitical Psychology**
+### **🌍 2. Geopolitical Insights**
 - How did the Cold War influence Olympic dominance?  
 - Why do some nations invest heavily in specific sports?  
 
@@ -111,10 +111,10 @@ cd olympic-legacy-1976-2008
 
 ### **🏊‍♂️ Most Dominant Sports**
 - **Swimming** → USA's stronghold  
-- **Gymnastics** → Russia's psychological edge  
+- **Gymnastics** → Russia's mental edge  
 - **Athletics** → Kenya's endurance culture  
 
-### **🧠 Psychological Pattern: "Home Advantage"**
+### **🧠 Performance Pattern: "Home Advantage"**
 > *Countries hosting the Olympics win 15-20% more medals than usual.*  
 > **Why?** Familiarity, crowd support, and reduced travel fatigue.
 
@@ -128,7 +128,7 @@ cd olympic-legacy-1976-2008
 ✅ Trend analysis using SQL  
 ✅ Data-driven storytelling techniques
 
-### **For Psychologists:**
+### **For Sports Enthusiasts:**
 ✅ How competition shapes behavior  
 ✅ National identity & collective motivation  
 ✅ The role of mentorship & training culture  
@@ -168,7 +168,7 @@ Feel free to use, modify, and share! 🏅
 > **"Data doesn't just record history—it reveals the invisible forces shaping human achievement."**  
 > — *This dataset is a window into 32 years of dreams, discipline, and destiny.*
 
-If you're ready to explore the psychology of excellence, **dive into the data**. 🚀
+If you're ready to explore the science of excellence, **dive into the data**. 🚀
 
 ***
 
