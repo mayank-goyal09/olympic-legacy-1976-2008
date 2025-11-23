@@ -74,16 +74,13 @@ A collection of **powerful analytical queries** to uncover:
 │   └── olympics_1976_2008.csv  # Raw dataset (15,500+ rows)
 │── 📝 queries/
 │   └── 20+ SQL queries (exploratory + analytical)
-│── 📖 notebooks/
-│   └── Python analysis (Pandas, Matplotlib, Seaborn)
 │── 📚 README.md  # You are here! 🧠
 ```
 
 ### **🔧 Tech Stack**
-- **SQL** → Data extraction & aggregation  
-- **Python (Pandas, NumPy)** → Data cleaning & analysis  
-- **Matplotlib/Seaborn** → Visualizations  
+- **SQL** → Data extraction, analysis & aggregation  
 - **PostgreSQL/MySQL** → Database management  
+- **CSV** → Raw data format
 
 ### **⚡ Quick Start**
 ```bash
@@ -93,8 +90,11 @@ git clone https://github.com/mayank-goyal09/olympic-legacy-1976-2008.git
 # Navigate to the folder
 cd olympic-legacy-1976-2008
 
-# Load the dataset into your SQL environment
+# Load the CSV dataset into your SQL database
+# Import olympics_1976_2008.csv into your database
+
 # Run the queries in queries/ folder
+# Execute the SQL queries to uncover insights
 ```
 
 ***
@@ -122,10 +122,11 @@ cd olympic-legacy-1976-2008
 
 ## 🎓 **What You'll Learn**
 
-### **For Data Scientists:**
+### **For Data Analysts:**
 ✅ Advanced SQL queries for sports analytics  
-✅ Trend analysis & predictive modeling  
-✅ Data visualization best practices  
+✅ Complex JOINs, aggregations, and window functions  
+✅ Trend analysis using SQL  
+✅ Data-driven storytelling techniques
 
 ### **For Psychologists:**
 ✅ How competition shapes behavior  
@@ -145,6 +146,7 @@ This one tells **stories**.
 
 🔥 **We don't just show who won—we ask *why* they won.**  
 🔥 **We don't just list medals—we decode *what it takes to become the best*.**  
+🔥 **Pure SQL power—no Python, no libraries, just SQL mastery.**
 
 ***
 
